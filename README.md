@@ -1,2 +1,2 @@
 # FirstRepo
-Git practice
+GIT Practice Repo
